@@ -1,0 +1,58 @@
+p {
+    display: block;
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;
+    color: saddlebrown;
+    font-size: 15px;
+}
+
+td {
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;  
+    color: slateblue;
+}
+h4 {
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;
+    color: turquoise;
+}
+br {
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;
+    color: coral;
+}
+
+@media screen and (max-width: 900px){
+p {
+    display: block;
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;
+    color: saddlebrown;
+    font-size: 15px;
+    border: darkblue;
+}
+
+td {
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;  
+    color: slateblue;
+}
+h4 {
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;
+    color: turquoise;
+}
+br {
+    font-family: 'Give You Glory', cursive;
+    font-style: initial;
+    text-align: justify;
+    color: coral;
+}
+}
